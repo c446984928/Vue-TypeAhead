@@ -1,3 +1,5 @@
-This is a very very simple typeahead (dropdown) component,you can base on it to implement more complicated jobs!
-Good lLuck!
-Hope this can save your time :)
+# Vue-TypeAhead
+- This is a very very simple typeahead (dropdown) component based on vue.js
+- You can based on it to finish your great work
+- Good Luck
+- Hope it can save your time, If it really does,please star it,Thanks :)
