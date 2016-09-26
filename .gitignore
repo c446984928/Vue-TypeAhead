@@ -1,0 +1,35 @@
+*.pyc
+/classes/
+/bin/
+*/upload/
+/.idea/
+/.settings/
+/target/
+app-local.properties
+
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
+
+
+.DS_Store
+*/node_modules/
+*/dist/
+*/npm-debug.log
+*/selenium-debug.log
+*/test/unit/coverage
+*/test/e2e/reports
+
